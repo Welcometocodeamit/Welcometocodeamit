@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Amit
 - 👀 I’m interested in Web development...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kumbharamit98@gmail.com
 
 <!---
